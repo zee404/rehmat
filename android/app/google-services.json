@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280978677427",
+    "project_id": "bloodbank-e8704",
+    "storage_bucket": "bloodbank-e8704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280978677427:android:a4b56f23f56929895e1ac6",
+        "android_client_info": {
+          "package_name": "com.exafos.rehmat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280978677427-nm0vai4s2snajnq0821e7ar09kgmmd9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPpohDmuJ6Zsg2PdBW0OjQ1oevIwnxF0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280978677427-nm0vai4s2snajnq0821e7ar09kgmmd9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
